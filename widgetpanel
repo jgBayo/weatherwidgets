@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>DEXMA Office Weather Widgets</title>
+  </head>
+  <body>
+  <iframe scrollbar="none" src="https://dexcell.com/widgets/30ad513e0a6739c55646ce1ee212fd42/export.htm?locale=es_ES&location_hash=a1588173217decf6021e7c27114d7658&time_zone=Europe/Madrid&format_date=EUROPEAN&format_number=EUROPEAN&format_icon=EUROPEAN&format_currency=EUROPEAN" frameBorder="0" style="height:260px;width:260px;border:0px;"></iframe>
+  <iframe scrollbar="none" src="https://dexcell.com/widgets/77f5860d997871c5f31e55ca8213a300/export.htm?locale=es_ES&location_hash=a1588173217decf6021e7c27114d7658&time_zone=Europe/Madrid&format_date=EUROPEAN&format_number=EUROPEAN&format_icon=EUROPEAN&format_currency=EUROPEAN" frameBorder="0" style="height:260px;width:260px;border:0px;"></iframe>
+  <iframe scrollbar="none" src="https://dexcell.com/widgets/1debba8fe27118758c70f8f4c27b01a3/export.htm?locale=es_ES&location_hash=a1588173217decf6021e7c27114d7658&time_zone=Europe/Madrid&format_date=EUROPEAN&format_number=EUROPEAN&format_icon=EUROPEAN&format_currency=EUROPEAN" frameBorder="0" style="height:260px;width:260px;border:0px;"></iframe>
+  </body>
+</html>
